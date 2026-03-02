@@ -14,7 +14,7 @@ Data cleaning and preprocessing
 
 Feature engineering
 
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis ()
 
 Machine Learning model building using Spark MLlib
 
