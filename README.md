@@ -9,15 +9,10 @@ The goal of this project is to build a scalable predictive model for taxi fares 
 **Key Features:**
 
 Data ingestion from NYC Taxi dataset
-
 Data cleaning and preprocessing
-
 Feature engineering
-
 Exploratory Data Analysis (EDA)
-
 Machine Learning model building using Spark MLlib
-
 Visualization and evaluation
 
 **Dataset**
@@ -29,13 +24,8 @@ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 **Tech Stack**
 
 Python 🐍
-
 Apache Spark 🔥
-
 Databricks ☁️
-
 Spark MLlib 🤖
-
 Pandas & NumPy 📊
-
 Jupyter Notebook 📓
