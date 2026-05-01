@@ -1,3 +1,4 @@
+
 **NYC Taxi Fare Prediction Using Big Data Technologies**
 
 This project focuses on predicting NYC taxi fares using Big Data technologies such as Apache Spark, Databricks, and Spark MLlib. It demonstrates an end-to-end data engineering and machine learning pipeline, including data ingestion, preprocessing, feature engineering, and model building.
